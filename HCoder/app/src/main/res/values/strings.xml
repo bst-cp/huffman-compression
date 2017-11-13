@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HCoder</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_ip">IP</string>
+    <string name="text_encode">Encode</string>
+    <string name="text_decode">Decode</string>
+    <string name="text_select">Select File</string>
+    <string name="text_execute">Compress</string>
+    <string name="text_user">Send</string>
+    <string name="text_location">Location</string>
+    <string name="text_message">Message</string>
+    <string name="error_valid_username_password">Wrong Username or Password</string>
+    <string name="error_connection">Connection is not successful</string>
+    <string name="error_open_file">File is not read</string>
+    <string name="successful_file">File is successfully opened</string>
+    <string name="successful_compress">File is successfully compressed</string>
+    <string name="text_have_message">You have one message</string>
+    <string name="text_have_not_message">You do not have messages</string>
+    <string name="button_accept">Accept</string>
+    <string name="button_decline">Decline</string>
+</resources>
